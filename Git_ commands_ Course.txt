@@ -21,6 +21,29 @@ will remove the file from staged, tracked file list to untracked file list
 * Git add *.html (will add all files with HTML type to the repo)
 * Git add . ( will add all files to the repo).
 
+* GIT COMMIT (sending all your information/changes )
+
+* clear :to clear the console
+i (insert)
+:wq (to commit your message)
+
+* Git commit -m 'your commments will be shown without opening the emulator'
+
+touch .gitignore (building a file that can ignore all the changes inside the folder even if I use add ., we use it normally to ignore log files).
+
+
+*******************
+Git branch NAME"put the functionality that you will develop as name e.g login functionality"
+
+(the idea of branch is to have a copy of the trunk and make a changes of it then add functionality to it then merge it to the trunk --OBS all the changes in the brnach will not affect the trunk until I merge the branch with the trunk) 
+--- YOu need to checkout to the branch name after that to start doing your changes then merge them to the trunc.
+Git merge 
+
+* Git branch login (create a branch)
+* Git checkout log (switch to that branch)
+* Git merge login(merge the branch with trunc)
+
+
 
 When dealing with server 
 
