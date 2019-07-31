@@ -36,7 +36,7 @@ touch .gitignore (building a file that can ignore all the changes inside the fol
 Git branch NAME"put the functionality that you will develop as name e.g login functionality"
 
 (the idea of branch is to have a copy of the trunk and make a changes of it then add functionality to it then merge it to the trunk --OBS all the changes in the brnach will not affect the trunk until I merge the branch with the trunk) 
---- YOu need to checkout to the branch name after that to start doing your changes then merge them to the trunc.
+--- You need to checkout to the branch name after that to start doing your changes then merge them to the trunc.
 Git merge 
 
 * Git branch login (create a branch)
@@ -45,8 +45,12 @@ Git merge
 
 
 
+
 When dealing with server 
 
-* Git push
-* Git pull
-* git clone
+* Git push 
+to remote server 
+* Git pull 
+pulling the latest changes that other programmer did 
+* git clone 
+take a copy of the repository
