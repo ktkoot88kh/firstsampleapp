@@ -1,0 +1,29 @@
+* git --version
+check the latest version of GIT
+* touch <File name.extension>
+create a file
+*LS (list)
+shows all files inside the file folder
+
+
+
+
+* Git init
+initalize GIT as repository inside the desired folder
+then you need to add your credentials to the repository
+*Git config  -- global user.name 'Mouhammad'
+* Git config  -- global user.email 'ktkoot88kh@gmail.com'
+
+* Git add <file>
+will add specific file to the mentioned repository
+* Git rm --cached <file name.extension>
+will remove the file from staged, tracked file list to untracked file list
+* Git add *.html (will add all files with HTML type to the repo)
+* Git add . ( will add all files to the repo).
+
+
+When dealing with server 
+
+* Git push
+* Git pull
+* git clone
