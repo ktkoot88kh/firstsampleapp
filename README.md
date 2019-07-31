@@ -1,2 +1,2 @@
 #Gitsample
-This is a tutrial for GIt  
+This is a tutrial for GIT  
