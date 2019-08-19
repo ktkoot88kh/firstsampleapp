@@ -5,8 +5,12 @@ create a file
 *LS (list)
 shows all files inside the file folder
 
+* Git reset
+git log (choose which commit you will chose)
+git reset --hard  2c4e793640c753(part of log id)
 
-
+* Git diff (which part before) (same part)  which file 
+ git diff HEAD~5 HEAD -- Pipelines/Build_Model_PHS.groovy
 
 * Git init
 initalize GIT as repository inside the desired folder
